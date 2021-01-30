@@ -1,5 +1,5 @@
 /*
-** Jaro - A Scripting Language
+** Jaro - a very tiny and simple to learn programming Language
 ** See Copyright Notice at the end of this file
 */
 
