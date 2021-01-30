@@ -1,7 +1,6 @@
 /*
-** $Id: lapi.c,v 2.159 2011/11/30 12:32:05 roberto Exp $
-** Lua API
-** See Copyright Notice in lua.h
+** Jaro API
+** See Copyright Notice in jaro.h
 */
 
 
