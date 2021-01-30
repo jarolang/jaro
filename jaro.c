@@ -1,7 +1,6 @@
 /*
-** $Id: lua.c,v 1.203 2011/12/12 16:34:03 roberto Exp $
-** Lua stand-alone interpreter
-** See Copyright Notice in lua.h
+** Jaro stand-alone interpreter
+** See Copyright Notice in jaro.h
 */
 
 
