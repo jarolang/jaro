@@ -1,7 +1,5 @@
 /*
-** $Id: lua.h,v 1.282 2011/11/29 15:55:08 roberto Exp $
-** Lua - A Scripting Language
-** Lua.org, PUC-Rio, Brazil (http://www.lua.org)
+** Jaro - A Scripting Language
 ** See Copyright Notice at the end of this file
 */
 
@@ -413,7 +411,7 @@ struct lua_Debug {
 
 
 /******************************************************************************
-* Copyright (C) 1994-2011 Lua.org, PUC-Rio.  All rights reserved.
+* Copyright (C) 2016-2021, https://github.com/jarolang/jaro, Vittorio Cieri.  All rights reserved.
 *
 * Permission is hereby granted, free of charge, to any person obtaining
 * a copy of this software and associated documentation files (the
