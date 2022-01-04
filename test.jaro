@@ -1,0 +1,2 @@
+print("Hello from ".._VERSION)
+print("A Programming Language for Beginners")
