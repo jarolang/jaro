@@ -1,2 +1,2 @@
 print("Hello from ".._VERSION)
-print("A Programming Language for Beginners")
+print("A Language for AI Oriented Scripts")
